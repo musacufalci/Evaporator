@@ -1,5 +1,7 @@
 # Evaporator
 
+An evaporator is a device used in a process to turn the liquid form of a chemical substance, such as water, into its gaseous form - vapor. The liquid is evaporated, or vaporized, into a gas form of the targeted substance in that process...
+
 An evaporator is a device which turns the liquid form of a substance into its gaseous or vapour form. This is a widely used process and there are many applications for it...
 
 
