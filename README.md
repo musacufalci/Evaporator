@@ -22,3 +22,5 @@ One of the most important applications of evaporation is in the food and beverag
 In the pharmaceutical industry, the evaporation process is used to eliminate excess moisture, providing an easily handled product and improving product stability. Preservation of long-term activity or stabilization of enzymes in laboratories are greatly assisted by the evaporation process.
 
 Another example of evaporation is in the recovery of sodium hydroxide in kraft pulping. Cutting down waste-handling cost is another major reason for large companies to use evaporation applications. Legally, all producers of waste must dispose of waste using methods compatible with environmental guidelines; these methods are costly. By removing moisture through vaporization, industry can greatly reduce the amount of waste product that must be processed...
+
+Design by: https://www.linkedin.com/in/musacufalci/
