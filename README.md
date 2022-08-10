@@ -23,4 +23,6 @@ In the pharmaceutical industry, the evaporation process is used to eliminate exc
 
 Another example of evaporation is in the recovery of sodium hydroxide in kraft pulping. Cutting down waste-handling cost is another major reason for large companies to use evaporation applications. Legally, all producers of waste must dispose of waste using methods compatible with environmental guidelines; these methods are costly. By removing moisture through vaporization, industry can greatly reduce the amount of waste product that must be processed...
 
+https://tr.wikipedia.org/wiki/Buharla%C5%9Ft%C4%B1r%C4%B1c%C4%B1
+
 Design by: https://www.linkedin.com/in/musacufalci/
