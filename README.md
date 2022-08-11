@@ -31,4 +31,4 @@ Buharlaştırıcılar, soğutma sistemlerinde soğutucu akışkanın sıvı olar
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-Design by: https://www.linkedin.com/in/musacufalci/
+- Design by: https://www.linkedin.com/in/musacufalci/
