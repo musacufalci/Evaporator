@@ -23,6 +23,12 @@ In the pharmaceutical industry, the evaporation process is used to eliminate exc
 
 Another example of evaporation is in the recovery of sodium hydroxide in kraft pulping. Cutting down waste-handling cost is another major reason for large companies to use evaporation applications. Legally, all producers of waste must dispose of waste using methods compatible with environmental guidelines; these methods are costly. By removing moisture through vaporization, industry can greatly reduce the amount of waste product that must be processed...
 
-https://tr.wikipedia.org/wiki/Buharla%C5%9Ft%C4%B1r%C4%B1c%C4%B1
+_________________________________________________________________________________________________________________________
+
+Buharlaştırıcı (veya evaporatör): Buharlaştırıcı (veya evaporatör), kaynama noktası farkından yararlanarak karışımları birbirinden ayırmayı sağlayan bir endüstriyel ekipmandır. Buharlaştırıcılar bir çözeltideki çözücü maddeyi veya bir sıvı karışımdaki daha düşük kaynama noktasına sahip bileşeni buharlaştırarak uzaklaştırılmasını sağlar. Neredeyse bütün endüstriyel işlemlerde çözücü bileşen sudur, suyun uzaklaştırılmasıyla daha derişik bir karışım elde edilmiş olur. Sıvı halde kalan derişik karışım genelde üründür. Buharlaşan bileşen su ise oluşan su buharı atmosfere verilebilir ya da içerdiği ısı sebebiyle endüstriyel süreçlerde tekrar kullanılabilir. Buharlaşan bileşen eğer su haricinde bir çözücü maddeyse değerli olduğundan ötürü uzaklaştırılmaz ve tekrar kullanılır.
+
+Buharlaştırıcılar, soğutma sistemlerinde soğutucu akışkanın sıvı olarak girip buharlaşarak gaz hâle geçtiği bölüm olarak da kullanılır. Soğutucu akışkan, buharlaştırıcının kanallarına girdiğinde soğutulmak istenen maddenin ısısını soğurarak kaynamaya başlar. Bu sayede buharlaştırıcı soğutma sistemlerinin genel amacı olan soğutmayı gerçekleştirmiş olur...
+
+
 
 Design by: https://www.linkedin.com/in/musacufalci/
